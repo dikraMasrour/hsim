@@ -1,7 +1,7 @@
 # hsim
 ### Run test.py for energy measurement
 
-``` python -m hsim.main.test```
+``` python -m main.test```
 
 **Options:** <br>
 ```-model: specify model type```
