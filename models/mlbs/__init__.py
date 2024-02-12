@@ -1,1 +1,1 @@
-from .models import MLBS, BINARY_MLBS
+from .models import MLBS, BINARY_MLBS32, BINARY_MLBS16
